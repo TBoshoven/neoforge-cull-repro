@@ -7,21 +7,21 @@
     "wall1": {
       "parent": "repro:block/wall"
     },
-    "pillar2": {
+    "wall2": {
       "parent": "repro:block/wall",
       "transform": {
         "rotation": [{"y": 90}],
         "origin": "center"
       }
     },
-    "pillar3": {
+    "wall3": {
       "parent": "repro:block/wall",
       "transform": {
         "rotation": [{"y": 180}],
         "origin": "center"
       }
     },
-    "pillar4": {
+    "wall4": {
       "parent": "repro:block/wall",
       "transform": {
         "rotation": [{"y": 270}],
