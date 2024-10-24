@@ -1,0 +1,32 @@
+{
+  "loader": "neoforge:composite",
+  "textures": {
+    "particle": "minecraft:block/gold_block"
+  },
+  "children": {
+    "wall1": {
+      "parent": "repro:block/wall"
+    },
+    "pillar2": {
+      "parent": "repro:block/wall",
+      "transform": {
+        "rotation": [{"y": 90}],
+        "origin": "center"
+      }
+    },
+    "pillar3": {
+      "parent": "repro:block/wall",
+      "transform": {
+        "rotation": [{"y": 180}],
+        "origin": "center"
+      }
+    },
+    "pillar4": {
+      "parent": "repro:block/wall",
+      "transform": {
+        "rotation": [{"y": 270}],
+        "origin": "center"
+      }
+    }
+  }
+}

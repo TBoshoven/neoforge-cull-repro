@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "repro:block/repro_block" }
+  }
+}
